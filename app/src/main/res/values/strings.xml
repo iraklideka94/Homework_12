@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Homework-012</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="movie">movie</string>
+    <string name="all_results">ALL RESULTS</string>
+    <string name="search_movie">Search movie...</string>
+    <string name="search">Search</string>
+    <string name="movie_description">movie description</string>
+    <string name="movie_title">Movie Title</string>
+</resources>
